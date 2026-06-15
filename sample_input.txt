@@ -1,0 +1,22 @@
+Subject: New Project Request — Online Appointment Booking System
+
+Hi Team,
+
+We need a web-based appointment booking system for our dental clinic chain (3 locations). Patients should be able to book, reschedule, and cancel appointments online without calling the front desk.
+
+Key needs:
+- Patients register with name, email, phone, and date of birth
+- View available time slots by dentist and location
+- Book appointments for cleaning, checkup, or emergency visits
+- Receive email confirmation and SMS reminder 24 hours before appointment
+- Clinic staff need an admin dashboard to manage schedules, block off holidays, and view daily appointment lists
+- Must integrate with our existing patient records system (we use Dentrix — not sure if API is available)
+- Mobile-friendly website; most of our patients book from their phones
+- We want this live within 3 months
+- Budget is around $25,000
+
+Please let us know what else you need from us.
+
+Thanks,
+Dr. Sarah Mitchell
+Mitchell Family Dental
